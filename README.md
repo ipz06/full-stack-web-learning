@@ -9,6 +9,6 @@ In this project, the goal is to construct a geometric design inspired by the wor
 It involves using the CSS Grid system to create and position colored blocks, mimicking Mondrian's iconic abstract paintings.
 
 ## Technologies Used
-HTML: Structure of the painting and layout.
-CSS: Styling, specifically CSS Grid to create the layout and design of the Mondrian painting.
-CSS Grid: Used to divide the painting into sections and control the positioning of elements
+### HTML: Structure of the painting and layout.
+### CSS: Styling, specifically CSS Grid to create the layout and design of the Mondrian painting.
+### CSS Grid: Used to divide the painting into sections and control the positioning of elements
